@@ -1,0 +1,10 @@
+[account]
+username=<123-reg username>
+password=<password>
+domains=<domain1,domain2>
+
+[domain1]
+subdomains=<subdomain1,subdomain2>
+
+[domain2]
+subdomains=<subdomain1,subdomain2>
